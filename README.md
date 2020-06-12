@@ -1,4 +1,4 @@
-# proxy-server
+# proxy_server
 
 #### 负载均衡代理服务器。
 
